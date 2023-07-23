@@ -1,0 +1,19 @@
+Οδηγίες εγκατάστασης εφαρμογής weatherApp.py
+--------------------------------------------------
+1) Αποσυμπίεση του αρχείου weatherApp.zip
+2) Εγκατάσταση των παρακάτω βιβλιοθηκών της python:
+   - folium (maps with Leaflet.js & Python)
+   - pandas (Powerful data stracture for data analyst)
+   - requests (Python Http)
+   - pybase64 (For base64 encoding)
+   - pyQt5 (Qt cross platform application toolkit)
+   - pyQtWebEngine (Qt WebEngine framework)
+   
+   Οι παραπάνω βιβλιοθήκες θα πρέπει να εγκατασταθούν κάνοντας
+   χρήση της εντολής pip install της python.
+   π.χ. pip install folium # maps with Leaflet.js & Python
+
+3) Άνοιγμα του αρχείου weatherApp.py με το προεγκατεστημένο
+   python editor IDLE.
+
+4) Πάτημα F5 πλήκτρου ή από το κυρίως μενού του IDLE: Run>Run Module
